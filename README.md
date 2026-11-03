@@ -14,6 +14,8 @@
 
 🔹 Data Analyst & BI Engineer with **5+ years of experience** building end-to-end analytics solutions across healthcare, media, and telecom.
 
+🔹 Currently **L2 Data Management at TELUS Health** (Oct 2025–Present), previously Analytics and Reporting Specialist at TELUS Health (Jun 2023–Oct 2025).
+
 🔹 Proven track record delivering scalable dashboards and data models — translating ambiguous business problems into clean, insight-driven reporting and automation.
 
 🔹 Experienced in Agile environments with cross-functional stakeholders, from requirements and data modelling through to governed, scheduled reporting.
@@ -52,6 +54,25 @@
 ![Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SSRS](https://img.shields.io/badge/SSRS-CC2927?style=for-the-badge)
+![Cognos](https://img.shields.io/badge/Cognos-8A00E4?style=for-the-badge)
+![Informatica](https://img.shields.io/badge/Informatica_PowerCenter-FF6A00?style=for-the-badge)
+![Oracle](https://img.shields.io/badge/Oracle-C74634?style=for-the-badge)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+
+---
+
+## 🤖 AI & Emerging Tech
+
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge)
+![AutoGen](https://img.shields.io/badge/AutoGen-0078D4?style=for-the-badge)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative_AI-8A00E4?style=for-the-badge)
+
+- OpenAI API • LangGraph • AutoGen • n8n • Claude Code • Streamlit • LLM Integration • Prompt Engineering
 
 ---
 
@@ -59,6 +80,7 @@
 
 - 📊 Data Analyst
 - 📈 BI Engineer / BI Specialist
+- 🗄️ Data Management
 - ⚙️ Analytics Engineer
 - 🏗️ Data Engineer
 - ☁️ Cloud Data Engineer
@@ -103,6 +125,26 @@
 - Microsoft Certified: Azure AI Fundamentals
 - Snowflake Hands-On Essentials
 - Google Certified: Looker (Analyze & Visualize, Get Started, Build LookML Objects)
+- Build AI Agents and Chatbots with LangGraph
+- Build AI Agents with n8n
+- Introduction to Agentic AI: Getting Started with AutoGen Studio
+- Build with AI: OpenAI and Streamlit for Code Review Automation
+- Claude Academy: Claude Code in action
+- Data Analytics with Generative AI
+- Mastering AI-Assisted Development
+- Agile Software Development
+
+---
+
+## 🎓 Education
+
+- Master of Applied Computing, University of Windsor, Sep 2021 – Apr 2023
+- B.Tech, Computer Science & Engineering, JNTU University, 2015 – 2019
+
+## 🌐 Languages
+
+- English — Professional
+- Hindi — Elementary
 
 ---
 
